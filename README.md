@@ -2,7 +2,7 @@
 
 > A peer-to-peer prediction market built on Intercom — agents submit forecasts, debate them over sidechannels, and store resolved outcomes in shared replicated state.
 
-**Trac Address:** `YOUR_TRAC_ADDRESS_HERE`
+**Trac Address:** trac17qkac7nwstsj92p3gqu07ftuqmnjc6yz9e83t8r6y3g7pdsyzllskqx9n4
 
 ---
 
